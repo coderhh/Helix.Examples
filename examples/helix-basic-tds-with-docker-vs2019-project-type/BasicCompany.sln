@@ -36,6 +36,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".tds", ".tds", "{66B76332-EF03-48FC-BF10-9CE319E02913}"
 	ProjectSection(SolutionItems) = preProject
 		TdsGlobal.config = TdsGlobal.config
+		TdsGlobal.config.user = TdsGlobal.config.user
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCompany.Project.BasicCompany", "src\Project\BasicCompany\website\BasicCompany.Project.BasicCompany.csproj", "{0A97EADA-3611-4B73-863A-FC486B3CE23C}"
